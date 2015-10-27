@@ -1,2 +1,15 @@
+# Stuff for this project
+/.emacs.desktop
+/abbrev_defs
+/ac-comphist.dat
+/elpa/
+/eshell/
+/ido.last
+/nameses-sessions/
+/recentf
+/semanticdb/
+/srecode-map.el
+/tramp
+# normal stuff
 \#*#
 *~
