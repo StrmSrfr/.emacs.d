@@ -10,6 +10,8 @@
 /semanticdb/
 /srecode-map.el
 /tramp
+# kinda both
+*.elc
 # normal stuff
 \#*#
 \#*#.*
