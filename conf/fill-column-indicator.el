@@ -1,0 +1,7 @@
+(require 'fill-column-indicator)
+(customize-set-variable 'fci-always-use-textual-rule t)
+;(customize-set-variable 'fci-rule-character 9474)
+(customize-set-variable 'fci-rule-character ?\|)
+;(customize-set-variable 'fci-always-use-textual-rule nil)
+(add-hook 'java-mode-hook 'fci-mode)
+(add-hook 'sql-mode-hook 'fci-mode)
